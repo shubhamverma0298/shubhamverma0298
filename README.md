@@ -21,3 +21,5 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamverma0298&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
