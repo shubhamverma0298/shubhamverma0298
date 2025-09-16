@@ -21,7 +21,11 @@
 ![Matplotlib](https://img.shields.io/badge/matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 📊 GitHub Stats:->
+
 [![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamverma0298&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 🏆 GitHub Trophies :->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhamverma0298&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
